@@ -1,2 +1,8 @@
 # Indian Economy PowerBI DashBoard
-📊 Indian Economy vs World: Sector-wise Comparison using Power BI This Power BI dashboard presents an insightful comparison between India's top 5 states/UTs and the world's top 5 economies across the Primary, Secondary, and Tertiary sectors.  🔍 Key Highlights: Sectoral contribution breakdown: Agriculture, Industry, and Services  Visual comparison of GDP patterns across Indian states and global economies  Clean, interactive, and easy-to-navigate Power BI interface  Source-aligned data transformation and modeling  📌 Objectives: Understand how Indian states compete on a global economic scale  Analyze development patterns across different economic sectors  Provide a visual reference for economic planning and academic analysis  🛠 Tools Used: Power BI for visualization  Government and global data sources for accuracy
+📊 Indian Economy vs World: Sector-wise Comparison using Power BI This Power BI dashboard presents an insightful comparison between India's top 5 states/UTs and the world's top 5 economies across the Primary, Secondary, and Tertiary sectors. 
+🔍 Key Highlights:
+Sectoral contribution breakdown: Agriculture, Industry, and Services  Visual comparison of GDP patterns across Indian states and global economies  Clean, interactive, and easy-to-navigate Power BI interface  Source-aligned data transformation and modeling  
+📌 Objectives:
+Understand how Indian states compete on a global economic scale  Analyze development patterns across different economic sectors  Provide a visual reference for economic planning and academic analysis  
+🛠 Tools Used:
+Power BI for visualization  Government and global data sources for accuracy
